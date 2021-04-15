@@ -1,4 +1,4 @@
 mkdir build
 cd build
-cmake -DCMAKE_BULD_TYPE=Release ..
+cmake -DCMAKE_BUILD_TYPE=Release ..
 make -j4
